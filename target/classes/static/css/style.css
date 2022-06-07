@@ -1,0 +1,19 @@
+.nav-link a:hover{
+    color: aqua;
+    text-shadow:2px 2px 5px black;
+
+  }
+  h1:hover{
+    color: aqua;
+
+  }
+  li:hover{
+    color: aqua;
+    text-shadow:2px 2px 5px black;
+
+  }
+  .carousel-caption h1,h2{
+    text-shadow:2px 2px 3px  rgb(12, 12, 12);
+
+  }
+  .nav-item{color:red;}
